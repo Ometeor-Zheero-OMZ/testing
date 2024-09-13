@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "integrating_test",
+    "unit_testing",
+    "macros",
+    "mocking"
+]
